@@ -1,1 +1,4 @@
-# student_carrier_recomendation
+streamlit
+scikit-learn
+joblib
+pandas
